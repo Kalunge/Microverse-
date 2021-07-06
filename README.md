@@ -3,9 +3,6 @@
 > This is my first project as a student at Microverse
 
 
-
-Additional description about the project and its features.
-
 ## Built With
 
 - Html and Css
