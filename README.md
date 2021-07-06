@@ -21,7 +21,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Install
 ```
-git clone https://github.com/Kalunge/hello-microverse.git
+git clone https://github.com/Kalunge/Microverse-.git
 
 ```
 
